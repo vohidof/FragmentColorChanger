@@ -57,6 +57,5 @@ class MainFragment : Fragment() {
         }else if (MySharedPreference.color == 12){
             root.setBackgroundColor(resources.getColor(R.color.color12))
         }
-
     }
 }
